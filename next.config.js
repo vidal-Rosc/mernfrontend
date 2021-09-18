@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-      backendURL: 'https://mernrosasbackend.herokuapp.com',
+      backendURL: 'https://sleepy-hamlet-48077.herokuapp.com',
       frontendURL: 'https://projects-tasks.netlify.app'
     }
   
